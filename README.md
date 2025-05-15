@@ -1,4 +1,7 @@
-# Welcome to React Router!
+# Request Body Paramaters
+
+<img width="1506" alt="image" src="https://github.com/user-attachments/assets/f4b655f8-0b5c-4834-914c-44d270b7c699" />
+
 
 A modern, production-ready template for building full-stack React applications using React Router.
 
